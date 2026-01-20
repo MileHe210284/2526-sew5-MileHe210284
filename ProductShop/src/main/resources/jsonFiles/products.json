@@ -1,0 +1,41 @@
+{
+  "608e0ff0-1463-4353-82c3-7caf2e3c749c": {
+    "id": "608e0ff0-1463-4353-82c3-7caf2e3c749c",
+    "name": "fork",
+    "basePrice": {
+      "amount": 5,
+      "currency": "EUR"
+    },
+    "props": {
+      "map": {
+        "2": "yellow"
+      }
+    }
+  },
+  "7fc15478-2798-4713-a26c-04e6475bb8c7": {
+    "id": "7fc15478-2798-4713-a26c-04e6475bb8c7",
+    "name": "bike",
+    "basePrice": {
+      "amount": 150,
+      "currency": "EUR"
+    },
+    "props": {
+      "map": {
+        "1": "blue"
+      }
+    }
+  },
+  "f3024f7d-721f-4743-ab9a-e0448ede0038": {
+    "id": "f3024f7d-721f-4743-ab9a-e0448ede0038",
+    "name": "car",
+    "basePrice": {
+      "amount": 15000,
+      "currency": "EUR"
+    },
+    "props": {
+      "map": {
+        "3": "pink"
+      }
+    }
+  }
+}

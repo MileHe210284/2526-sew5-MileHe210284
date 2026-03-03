@@ -15,6 +15,9 @@
         <module>2025-12-09-HorseRace</module>
         <module>2026-01-13-Sockets</module>
         <module>2026-01-13-Echoserver</module>
+        <module>ChatRoom</module>
+        <module>ChatRoom/User</module>
+        <module>2026-02-10-uebungMatura</module>
     </modules>
 
     <properties>
